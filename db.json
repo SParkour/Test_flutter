@@ -1,5 +1,6 @@
 {
   "profile": {
-    "name": "typicode"
+    "email": "flutter@gmail.com",
+    "password" : "123456"
   }
 }
